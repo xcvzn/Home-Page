@@ -44,10 +44,10 @@
 
 /* Dark theme */
 [theme="dark"] {
-	--background: #101112;
+	--background: #282828;
 	--foreground: #858585;
 	--header: #A8A8A8;
-	--card-bg: #1c1d1f;
+	--card-bg: #ebdab1;
 
 	--weather-fg: #BDBDBD;
 	--weather-bg: var(--card-bg);
